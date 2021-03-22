@@ -1,0 +1,28 @@
+This is a recently started Wizards Chess game.  
+
+The player will, when complete, connect to their friends or bots to
+play chess in an open environment, rather than an 8x8 grid, with 
+slightly modified peice rules.  The wizards will be able to 
+cast their spells to modify the playing field or alter the rules 
+of the game.
+
+Currently completed is: 
+A basic login + registration screen, with
+server hosting and quickjoin options, connected to SQL with PHP.
+This will be the matchmaking method, while gamelogic will be P2P 
+using Mirror.  Additionally, general movement ability of the player, 
+generic object and peice pickup + movement, a grid system which 
+will be expanded to hold game states. Object avoidance steering 
+for the player (to be slightly modified for AI Agents once 
+implemented) to avoid getting stuck on the many peices. 
+basic highlighting set up for the grid overlay.
+
+ToDo:
+-Chess logic, checking for legal moves,
+-Integrate Mirror
+-Tie in to Steam's API for playing with friends.
+-Complete matchmaking server and host on website.
+-spell system and spells
+-AI engine inspired by traditional min/max logic
+-Utility AI for the wizard bots.  
+-Machine Learning to optimize the AI within the given parameters.

@@ -1,0 +1,13 @@
+This game was a Total War inspired game, with intent 
+to mix with the idea of Hero generals with special 
+abilities such as in League Of Legends, Overwatch, 
+and Team Fortress 2.  This is a spiritual precursor 
+to my current chess game.
+
+The formations in this game went through various 
+reworks, due to the different approaches having 
+different pros and cons.  Ultimately, this project 
+relied on AI that was beyond my time budget to complete,
+as it relied on AI that had to be extremely optimized 
+to run at real-time, and good enough to beat players 
+in high level strategy.

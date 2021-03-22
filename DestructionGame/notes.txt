@@ -1,0 +1,7 @@
+In this project I handled all gameplay logic and art, 
+while the other partner built a custom importer for 
+magicavoxel files, the destruction system, and the custom shaders.
+
+Due to NDA, I can't share anything else from this project, 
+though since the vast majority of my work in this is on art, 
+there is little of value to share
