@@ -34,14 +34,14 @@ in high level strategy.
 This was an action RPG project which initially was prototyped 
 using Unity's 3D Game Kit.  Many features were added such as: 
 swimming 
--Use of shields
--Bow+Arrow
--Lunging attack 
--Dodge/Rolls
--Knockups and status effects
--Basic procedural dungeon generation (Rule-Based)
--Ledge Grabbing & Shimmying 
-	(not completed due to it slowing down gameplay)
+- Use of shields
+- Bow+Arrow
+- Lunging attack 
+- Dodge/Rolls
+- Knockups and status effects
+- Basic procedural dungeon generation (Rule-Based)
+- Ledge Grabbing & Shimmying 
+	(discarded before polish as it slowed down gameplay)
 However, because of its origin in a project I did not make, 
 I do not want to present scripts without context, for 
 fear of taking credit for work that is not my own.
