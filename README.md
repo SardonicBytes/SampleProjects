@@ -17,6 +17,7 @@ A current (though paused) project where you play wizards chess.
 See https://github.com/SardonicBytes/2019-BattleMage for more details
 
 //Formation Game//
+
 This game was a Total War inspired game, with intent 
 to mix with the idea of Hero generals with special 
 abilities such as in League Of Legends, Overwatch, 
